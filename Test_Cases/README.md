@@ -1,29 +1,38 @@
-# Facebook Login & Sign-Up – Manual Testing Portfolio
+# Facebook Login & Sign-Up – Manual Testing Project
 
-## About Me
+##  About Me
 I am a Computer Science undergraduate and aspiring Manual QA Engineer.
-This repository demonstrates my hands-on practice in manual testing
-using a real-world application.
+This project demonstrates my hands-on experience in testing a real-world
+web application using manual testing techniques.
 
-## Project Details
+##  Project Description
 Application: Facebook  
-Modules Tested: Login and Sign-Up  
+Module Tested: Login & Sign-Up  
 Testing Type: Manual Testing  
+Platform: Web Application  
 
-## Scope of Testing
-- Login validation
-- Sign-up validation
-- Error message verification
+##  Testing Scope
+- Login functionality
+- Sign-up functionality
+- Field validations
 
-## Tools Used
-- MS Excel
-- Web Browser
-- GitHub
+##  Tools Used
+- MS Excel (Test Case Design)
+- Web Browser (Chrome)
+- GitHub (Documentation)
 
-## Artifacts Included
-- Test cases
-- Test plan
+##  Deliverables
+- Test cases for Login & Sign-Up
+- Test plan document
 
-#Career Objective
-To secure a Junior / Trainee QA Engineer position.
+##  Key Learning
+- Writing real-world test cases
+- Understanding user behavior
+- Identifying validation scenarios
+- Professional QA documentation
+
+##  Contact
+Name: Dilmi Jayakodi  
+Role: Junior / Trainee QA Engineer
+
 
