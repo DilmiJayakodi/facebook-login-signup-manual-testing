@@ -74,3 +74,8 @@ To verify that the **Facebook Login** and **Sign-Up** functionalities operate co
 * **Defect Identification:** Identifying gaps in user experience and error handling
 
 ---
+## 👩‍💻 Author
+
+Dilmi Jayakodi
+
+    GitHub: @DilmiJayakodi
